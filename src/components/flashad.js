@@ -5,7 +5,7 @@ import "../styles/flashad.css";
 const FirstAd = props => {
     return(
         <div> 
-        <img className = "flashad" src = {Flashad} width = {1180}/>
+        <img className = "flashad" src = {Flashad}/>
         </div>
     )
 }

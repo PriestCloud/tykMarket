@@ -1,5 +1,5 @@
 .header_bg{
-    height:100px;
+    height:43px;
     background-color: #F5F5F5;
 }
 .sellonjumia{
@@ -7,7 +7,9 @@
     margin-top:10px;
 }
 .sellonjumia2{
-    margin-top:5px;
-    margin-left:5px;
-    
+    margin-left: 98px;
+    margin-top:-19px;
+    font-size:11.8px;
+    font-weight: bold;
+    color:#F5A51E;
 } 

@@ -2,6 +2,7 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
 import Flashad from './flashad.js'
 import Header_bg from './header_bg.js'
+import Header_Main from './header_main.js'
 import '../styles/wrapper.css';
 
 
@@ -21,6 +22,9 @@ const Wrapper = props => {
         </Header_bg> 
             
         </div>
+
+        <Header_Main/>
+
         </div>
     )
 }
